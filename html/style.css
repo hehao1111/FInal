@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background: #f4f4f4;
+    color: #333;
+}
+
+/* Header styling */
+header {
+    background: #0056b3;
+    color: #ffffff;
+    padding: 10px 20px;
+    text-align: center;
+}
+
+/* Section styling */
+section {
+    margin: 20px;
+    padding: 20px;
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0 0 10px 0 rgba(0,0,0,0.1);
+}
+
+/* Headings within sections */
+h2 {
+    color: #333;
+}
+
+/* Footer styling */
+footer {
+    text-align: center;
+    padding: 10px 20px;
+    background: #333;
+    color: 249. 
+}
